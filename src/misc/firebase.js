@@ -4,12 +4,12 @@ import "firebase/database";
 import "firebase/storage";
 
 const config = {
-  apiKey: "AIzaSyBZZ5eQwrJLikPl9ZeejsZWjyJM2IHjqBM",
-  authDomain: "engage-now-c8a2e.firebaseapp.com",
-  projectId: "engage-now-c8a2e",
-  storageBucket: "engage-now-c8a2e.appspot.com",
-  messagingSenderId: "298516182323",
-  appId: "1:298516182323:web:42209752c196fdfc98fa46",
+  apiKey: "AIzaSyDeeAn4dc8f10eBw75NZkucK33OSqCKsEc",
+  authDomain: "engagenow-chatapp.firebaseapp.com",
+  projectId: "engagenow-chatapp",
+  storageBucket: "engagenow-chatapp.appspot.com",
+  messagingSenderId: "1057617846555",
+  appId: "1:1057617846555:web:44ca5a61075780d935f3be",
 };
 
 const app = firebase.initializeApp(config);
